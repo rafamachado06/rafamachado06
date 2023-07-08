@@ -32,3 +32,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
    <a href="https://instagram.com/rafael_machado39" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/rafael-machado-51b7b127a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/rafamachado06/rafamachado06/blob/output/github-contribution-grid-snake.svg)
