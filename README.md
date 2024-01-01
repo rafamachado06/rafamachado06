@@ -1,8 +1,9 @@
-## Seja bem vindo, sou o Rafa Machado 😉
+## Olá pessoa, me chamo Rafael Machado 😉
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 - Sou um DEV Full Stack 💻
 - Tentando avançar mais em back-end (C#, Java) 📕
+- Amo inglês e aprendendo japonês no momento 🗣️
 - Fun fact: Sou um violinista programador 🎻
 
 <!--<picture>
